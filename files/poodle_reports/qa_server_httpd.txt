@@ -1,7 +1,0 @@
-alm-teamcity-q1.it.ucla.edu
-bb-buy-q01.it.ucla.edu
-bb-pay-q01.it.ucla.edu
-dacssqa1.ais.ucla.edu
-dacssqa2.ais.ucla.edu
-ihswq3.it.ucla.edu
-shbqa2.dpns.ais.ucla.edu
